@@ -1,1 +1,1 @@
-# game.ruy
+# gameruy
